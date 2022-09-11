@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next.js, Redux etc...**
 
-- 📝 I regularly write articles on [medium_link_lazım](medium_link_lazım)
-
 - 💬 Ask me about **react, next**
 
 - 📫 How to reach me **alicanerden4@gmail.com**
